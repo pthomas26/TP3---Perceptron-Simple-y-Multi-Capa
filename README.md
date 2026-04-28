@@ -1,2 +1,2 @@
-# TP3---Percepetron-Simple-y-Multi-Capa
+# TP3---Perceptron-Simple-y-Multi-Capa
 Repository for TP3
